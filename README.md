@@ -9,8 +9,4 @@ This project implements a **U-Net model** in **PyTorch** to perform semantic seg
 - ✅ Evaluate the model using **mIoU** and **mPA**
 - ✅ Perform segmentation on individual images and visualize results
 
-## 📁 Project Structure
 
-📁 data/ ├── images/labels/ 
-📁 notebooks/ ├── LiverSegmentation.ipynb 
-📁 outputs/ ├── model.pth 
